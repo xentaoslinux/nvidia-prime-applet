@@ -1,0 +1,57 @@
+nvidia-prime-applet (1.0.8+xentaos2) batik; urgency=medium
+
+  * Pengepakan Perilisan "batik"
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Tue, 12 Mar 2019 21:07:33 +0700 
+
+nvidia-prime-applet (1.0.7) tara; urgency=medium
+
+  [ NikoKrause ]
+  * applet: use symbolic nvidia/intel icons (#3)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 May 2018 13:40:14 +0100
+
+nvidia-prime-applet (1.0.6) serena; urgency=medium
+
+  [ brownsr ]
+  * Permit this applet in vertical panels
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 04 Nov 2016 11:45:48 +0000
+
+nvidia-prime-applet (1.0.5) sarah; urgency=medium
+
+  * Use indicators under KDE
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 16 Aug 2016 16:56:58 +0200
+
+nvidia-prime-applet (1.0.4) sarah; urgency=medium
+
+  * Fix GtkStatusIcon menu popup on newer Gtk
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 10 Jun 2016 15:02:30 +0100
+
+nvidia-prime-applet (1.0.3) rafaela; urgency=medium
+
+  * Removed unecessary imports
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 14 Jul 2015 13:58:32 +0200
+
+nvidia-prime-applet (1.0.2) rafaela; urgency=medium
+
+  * Don't write to stdout (it ends up in .xsession-errors.. non-NVIDIA users don't want to see PRIME errors/debug info)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 Jun 2015 18:39:04 +0200
+
+nvidia-prime-applet (1.0.1) rafaela; urgency=medium
+
+  * Added a systray application for MATE/Xfce/KDE
+  * Made the xdg autostart visible and more explanatory
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 23 Jun 2015 17:29:36 +0200
+
+nvidia-prime-applet (1.0.0) rafaela; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue,  23 Jun 2015 16:28:00 +0000
+
